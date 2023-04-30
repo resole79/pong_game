@@ -60,9 +60,9 @@ Press keys to move the paddles:
    - "Right" to move down       
  
 
-![Snake Game](./image/pong_game_0.png)       
+![Pong Game](./image/pong_game_0.png)       
 
-![Snake Game](./image/pong_game_1.png)
+![Pong Game](./image/pong_game_1.png)
 
 
 ## **Credit**
